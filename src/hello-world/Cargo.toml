@@ -18,6 +18,6 @@ solana-program-test = "~1.8.14"
 solana-sdk = "~1.8.14"
 
 [lib]
-name = "hello-world"
+name = "helloworld"
 crate-type = ["cdylib", "lib"]
 
